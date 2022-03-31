@@ -8,6 +8,7 @@ import static org.junit.Assert.*;
 
 @Ignore
 public class WinTest {
+
     @Test
     public void whenVerticalWin() {
         int[][] board = {
