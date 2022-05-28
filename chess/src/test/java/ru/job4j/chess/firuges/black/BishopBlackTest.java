@@ -9,8 +9,6 @@ import ru.job4j.chess.firuges.Cell;
 import static org.junit.Assert.*;
 
 public class BishopBlackTest {
-
-
     @Test
     public void position() {
         BishopBlack bishopBlack = new BishopBlack(Cell.A1);
